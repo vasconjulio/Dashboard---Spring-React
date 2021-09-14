@@ -6,7 +6,7 @@
 
 ## Episódio 1:
 
-<img src="https://ik.imagekit.io/p7aqqjfkrdg/Capturar_-sKSFQJD6Iq.PNG?updatedAt=1631144341545" />
+<img src="Imgs\ep1.PNG" />
 
 - Criação dos projetos backend e Frontend;
 - Montagem no Github em monorepo;
@@ -15,7 +15,7 @@
 
 ## Episódio 2:
 
-<img src="https://ik.imagekit.io/p7aqqjfkrdg/ep2_-s_xPg5S_U.PNG?updatedAt=1631144342067" />
+<img src="Imgs\ep2.PNG" />
 
 - Implementação do back end do projeto:
   - Modelo de domínio;
@@ -33,7 +33,7 @@
 
   ## Episódio 3:
 
-  <img src="https://ik.imagekit.io/p7aqqjfkrdg/projeto_final_dmz90z7fFu.gif?updatedAt=1631295140955" />
+  <img src="Imgs\projeto_final.gif" />
 
 - Integração back end e front end:
   - Componentes
